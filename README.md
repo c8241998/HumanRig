@@ -1,6 +1,6 @@
 <div align="center">
 
-# HumanRig: Learning Automatic Rigging for Humanoid Character in a Large Scale Dataset
+# HumanRig: Learning Automatic Rigging for Humanoid Character in a Large Scale Dataset <br>（CVPR 2025）
 
 _**Zedong Chu,
 Feng Xiong,
@@ -23,7 +23,7 @@ Mu Xu**_
 
 - [x] Release dataset on Hugging Face 🤗
   - Dataset Link: [jellyczd/HumanRig](https://huggingface.co/datasets/jellyczd/HumanRig)
-- [ ] Release code (coming soon) 🚧
+- [ ] Release code 🚧
 
 ## Citation
 
