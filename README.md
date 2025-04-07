@@ -1,6 +1,6 @@
 <div align="center">
 
-# HumanRig: Learning Automatic Rigging for Humanoid Character in a Large Scale Dataset <br>（CVPR 2025）
+# HumanRig: Learning Automatic Rigging for Humanoid Character in a Large Scale Dataset <br>（CVPR 2025 Highlight）
 
 _**Zedong Chu,
 Feng Xiong,
