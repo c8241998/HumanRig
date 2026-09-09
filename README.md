@@ -23,7 +23,6 @@ Mu Xu**_
 
 - [x] Release dataset on Hugging Face 🤗
   - Dataset Link: [jellyczd/HumanRig](https://huggingface.co/datasets/jellyczd/HumanRig)
-- [ ] Release code 🚧
 
 ## Citation
 
